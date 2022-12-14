@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **smazen98@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/enrv7](shorturl.at/enrv7)
+- 📄 Know about my experiences <a href="https://mazensoliman.me/resume.pdf"/>resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
