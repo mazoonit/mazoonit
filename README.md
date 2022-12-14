@@ -2,7 +2,7 @@
 <h3 align="center">Full-stack web developer From Egypt.</h3>
 
 - 📫 How to reach me **smazen98@gmail.com**
-- 📫 My Personal Website <a href="https://mazensoliman.me" target="_blank">**https://mazensoliman.me**</a>
+- :satellite: My Personal Website <a href="https://mazensoliman.me" target="_blank">**https://mazensoliman.me**</a>
 
 - 📄 Know about my experiences <a href="https://mazensoliman.me/resume.pdf" target="_blank"/><strong>Resume</strong></a>
 
